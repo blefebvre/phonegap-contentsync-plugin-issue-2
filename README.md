@@ -4,4 +4,4 @@
 	$ cordova platform add ios
 	$ cordova run ios
 
-Attached Safari, then tap button in app.
+Attach Safari Web Inspector to the Sim, then tap 'this button' in the app.
